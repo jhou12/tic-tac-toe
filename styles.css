@@ -1,0 +1,24 @@
+body {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 18px;
+  color: lime;
+  background-color: black;
+}
+
+td {
+  width: 150px;
+  height: 150px;
+  border: 1px solid green;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+#winner {
+  font-size: 60px;
+  color: red;
+}
+
+#reset {
+  font-size: 20px;
+}
+
